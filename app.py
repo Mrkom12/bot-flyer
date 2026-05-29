@@ -65,7 +65,7 @@ async def main():
     while True:
         await post_image()
         logging.info("Attente de 45 minutes...")
-        await asyncio.sleep(2700)  # 45 minutes
+        await asyncio.sleep(2000)  # 45 minutes
 
 if __name__ == "__main__":
     asyncio.run(main())
