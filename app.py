@@ -13,7 +13,7 @@ BOT_TOKEN = "8444990656:AAGeAF1AflD4UvnB9qXwv5M23VAECpn-8sQ"
 CHANNEL_ID = -1002106421814
 FOLDER_PATH = "images"
 SENT_LOG = "sent.json"
-INTERVAL_MINUTES = 25  # ← CHANGE ICI : 25 minutes
+INTERVAL_MINUTES = 30  # ← CHANGE ICI : 30 minutes
 
 # Messages aléatoires pour accompagner les images
 CAPTIONS = [
